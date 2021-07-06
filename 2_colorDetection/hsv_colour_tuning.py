@@ -1,4 +1,5 @@
 # https://www.instructables.com/Color-Detection-in-Python-Using-OpenCV/
+# https://www.rapidtables.com/web/color/RGB_Color.html
 import cv2
 import numpy as np
 
